@@ -2,7 +2,7 @@
 
 > Ancient theoretical code snippets before the language was even properly made.
 
-This repository includes a bunch of file which have been polluting the main repository for a while in the `old` directory. They have since been moved here.
+This repository includes a bunch of files which have been polluting the main repository for a while in the `old` directory. They have since been moved here.
 
 The code contained in this repository represents what the language was at the very early stages, right before proper development even began - this was all theoretical whilst [I](https://richy.lol) was still basically doing PL theory for Nue.
 
